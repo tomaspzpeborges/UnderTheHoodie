@@ -36,7 +36,7 @@ class _TextFormState extends State<TextForm> {
   final stripeKey = StripePayment.setOptions(
     StripeOptions(
         publishableKey:
-            "pk_live_51Gw7OWI5EY68OuroJzljuCOGSwv5eNUHp6Ig1pnZpxf6fNk52SKcm8og7RNfanpLJfwJKg93YN9tjw6RVUyrlY7800KRo1fieP"),
+            "INSERT PUBLIC STRIPE KEY HERE"),
   );
 
   final HttpsCallable INTENT =
