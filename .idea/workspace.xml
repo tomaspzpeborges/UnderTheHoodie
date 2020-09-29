@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06c8d5a7-ca25-4d12-9c51-5bc89c385228" name="Default Changelist" comment="added files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="OnePlus_6T_API_29" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cYj5yeF4SlX25gLhfSviPnmX0H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flutter_assets" />
+      <recent name="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi" />
+      <recent name="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi" />
+      <recent name="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi" />
+      <recent name="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c8d5a7-ca25-4d12-9c51-5bc89c385228" name="Default Changelist" comment="" />
+      <created>1590712241153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590712241153</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added images for readme.md">
+      <created>1601371795116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601371795116</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added images for readme.md">
+      <created>1601374461940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601374461940</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added files">
+      <created>1601376666979</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601376666979</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/ios" />
+    </ignored-roots>
+    <MESSAGE value="added images for readme.md" />
+    <MESSAGE value="added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Notifications" timestamp="1601377721046">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1601377721046" />
+    <state x="459" y="127" key="CommitChangelistDialog2" timestamp="1601377688585">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="459" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601377688585" />
+    <state x="701" y="425" key="Github.ShareDialog" timestamp="1601381785200">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="701" y="425" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1601381785200" />
+    <state x="567" y="8" width="935" height="803" key="Github.UntrackedFilesDialog" timestamp="1601381929650">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="567" y="8" width="935" height="803" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1601381929650" />
+    <state width="1638" height="252" key="GridCell.Tab.0.bottom" timestamp="1597430090792">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="252" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1597430090792" />
+    <state width="1638" height="324" key="GridCell.Tab.0.bottom/0.0.1680.976@0.0.1680.976" timestamp="1597272035344" />
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.0.1680.984@0.0.1680.984" timestamp="1592834255768" />
+    <state width="1638" height="252" key="GridCell.Tab.0.center" timestamp="1597430090791">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="252" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1597430090791" />
+    <state width="1638" height="324" key="GridCell.Tab.0.center/0.0.1680.976@0.0.1680.976" timestamp="1597272035344" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.1680.984@0.0.1680.984" timestamp="1592834255767" />
+    <state width="1638" height="252" key="GridCell.Tab.0.left" timestamp="1597430090790">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="252" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1597430090790" />
+    <state width="1638" height="324" key="GridCell.Tab.0.left/0.0.1680.976@0.0.1680.976" timestamp="1597272035343" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.1680.984@0.0.1680.984" timestamp="1592834255766" />
+    <state width="1638" height="252" key="GridCell.Tab.0.right" timestamp="1597430090791">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="252" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1597430090791" />
+    <state width="1638" height="324" key="GridCell.Tab.0.right/0.0.1680.976@0.0.1680.976" timestamp="1597272035344" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right/0.0.1680.984@0.0.1680.984" timestamp="1592834255767" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1601381773470">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1601381773470" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1601380940281">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601380940281" />
+    <state x="100" y="100" width="1480" height="850" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598710324200">
+      <screen x="0" y="0" width="1680" height="979" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598371623091" />
+    <state x="100" y="100" width="1480" height="850" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1680.976@0.0.1680.976" timestamp="1598379394541" />
+    <state x="100" y="100" width="1480" height="850" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1680.979@0.0.1680.979" timestamp="1598710324200" />
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601373582382">
+      <screen x="0" y="0" width="1680" height="979" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.979@0.0.1680.979" timestamp="1601373582382" />
+    <state x="489" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1601372382717">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="489" y="288" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1601372382717" />
+    <state x="489" y="309" key="com.intellij.ide.util.TipDialog/0.0.1680.976@0.0.1680.976" timestamp="1594495581674" />
+    <state x="620" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601377447764">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="620" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601377447764" />
+  </component>
+</project>
