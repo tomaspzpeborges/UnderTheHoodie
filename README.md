@@ -4,14 +4,18 @@ An application written in Flutter/Dart that allows the user to write a statement
 
 
 Notes for using this project:
-Specific Keys for Google Firebase Database and the respective files google-services.json and GoogleServiceinfo.plist were removed.
-Specific keys for Stripe API were removed.
-Code written in the Google Cloud Functions was not updated.
-Some large files from the Flutter and Stripe frameworks were also removed (too large for standard GitHub).
 
-My general advice is to focus on the "lib" and "flutter_assets" folders to understand and analyse this project.
-If you are trying to replicate it, I suggest setting up Google Firebase Database, Google Cloud Functions and the Stripe API on your own! And solely look at my code on Flutter/Dart
+-Specific Keys for Google Firebase Database and the respective files google-services.json and GoogleServiceinfo.plist were removed.
 
+-Specific keys for Stripe API were removed.
+
+-Code written in the Google Cloud Functions was not updated.
+
+-Some large files from the Flutter and Stripe frameworks were also removed (too large for standard GitHub).
+
+-To understand and analyse this project, my general advice is to focus on the "lib" and "flutter_assets" folders.
+
+-If you are trying to replicate it, I suggest setting up Google Firebase Database, Google Cloud Functions and the Stripe API on your own! And solely look at my  Flutter/Dart code.
 
 
 
