@@ -2,6 +2,8 @@
 
 An application written in Flutter/Dart that allows the user to write a statement in a hoodie and order it from a factory. The application is connected to a backend Google Firebase Database and uses the Stripe API for payments, and also uses Google Cloud Functions for handling more sensitive information.
 
+This project was developed between April and July 2020.
+
 
 Notes for using this project:
 
